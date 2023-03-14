@@ -2,7 +2,7 @@
   <img src="https://te.legra.ph/file/18455dc613da6923a18cd.jpg" alt="Autofilter_robot">
 </p>
 <h1 align="center">
-  <b> Lazy Princess BOT </b>
+  <b> Autofilter_robot </b>
 </h1>
 
 ## ⚡️Features
