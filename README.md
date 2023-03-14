@@ -111,26 +111,7 @@ python3 bot.py
 • /delthumb - To delete custom thumbnail #renaming_feature
 
 ```
-## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyPrincessSupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/LazyDeveloper)
 
-## Credits 
-* [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=LazyPrincess&message=devs&color=critical)](https://telegram.dog/LazyDeveloper)
-
-
-## Thanks to 
- - Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for helping us in this journey ❤
- - Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for adding `file renaming feature` 🎉
- - Thank you [LazyDeveloper](https://github.com/LazyDeveloperr) for keeping this `super premium repo` for `free` ❤
- - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
- - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
- - Thanks To All Everyone In This Journey
-
-### Note
-
-[Join Main Channel](https://telegram.dog/LazyDeveloper): LazyDeveloper 🎁
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
